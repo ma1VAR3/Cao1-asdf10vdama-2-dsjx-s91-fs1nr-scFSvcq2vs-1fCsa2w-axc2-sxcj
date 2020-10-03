@@ -20,9 +20,9 @@ Wlyohwz puzwljapun tvyl puav aol thaaly jhu olsw
 
 Message :
 
-<!---
+
 -----BEGIN PGP MESSAGE-----  
---->
+
 
 hQEMA8R4LOfnAIHsAQf/dBwX5SiSVZvJhySjdWyITunt8Khe/yM0ZoyZxw14pPvB
 S5UCYzvJfvu27YHJzACvGaXzOsgqRqvsIJYdGGeRkmFUyjYXQlN+lJtkoZIhR/aA
@@ -34,9 +34,9 @@ Ab5puUI0KPCyuTKpA+zgDNWoHRRnSDz1YDmKLaaVdl7zCWj8YtrLMXEP8Ij84Ds2
 GFQHIqkkDCdiyrKSXJYGPnceqTpgg1ACCVbNUnfLX23zbdH+RmOeoVkKBFo4w8VH
 J8Y/Pidu14XnXjvn4Cgm
 =+x4g
-<!---
+
 -----END PGP MESSAGE-----
---->
+
 
 
 
@@ -44,9 +44,9 @@ J8Y/Pidu14XnXjvn4Cgm
 
 Psst.... 
 This can help you to make sense of the gibberish above:
-<!---
+
 -----BEGIN PGP PRIVATE KEY BLOCK-----
---->
+
 
 lQPGBF9T9igBCADPEA/dcFke9dKFn6RMDxsSdGU7mI+dqQoDz53x3UsdwYqv11G7
 5LTli0CtkLo6qDgW4Iy3dD655TFIpNjaENvOqSyGjOZtjZD+jI6iQ5eYr+dGxTx+
@@ -104,9 +104,9 @@ n8eaUmZheJ7/+WwMfpk7GRQYOuENyxINQfxqF2POONKvq2Q8szb44l5Erxk664AY
 geX0n6aqgBeZrw3ePRcyUnvpTZiFnGmEOsLB1C/7cidMLrh4BnVXn0puHNDJ50Nx
 qYjfMu6tbhGkQ2NWTEdXvQ==
 =2LPk
-<!---
+
 -----END PGP PRIVATE KEY BLOCK-----
---->
+
 
 
 
