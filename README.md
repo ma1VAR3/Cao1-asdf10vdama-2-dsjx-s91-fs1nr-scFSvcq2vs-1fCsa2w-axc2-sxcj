@@ -12,7 +12,7 @@ feel free to use whatever you have at your disposal to break this and only the *
 
 & is the key to your question.
 
-hint: Aol tvza ilhbapmbs dvthu pu lnfwa.
+hint: Aol tvza ilhbapmbs dvthu pu lnfwa huk dhz ylshalk av thyr huavuf.
 Wlyohwz puzwljapun tvyl puav aol thaaly jhu olsw
 
 <!--- Aol whzzwoyhzl mvy aol tlzzhnl pz J1J4K4$23[3302] --->
